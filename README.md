@@ -7,4 +7,4 @@ Rules:
 * Default controls can be modified from the .exe
 
 Main window: 
-![Main screen of the pong](https://github.com/marcbove/Pong/blob/master/main_screen.PNG)
+![Main screen of the pong](https://github.com/marcbove/Pong-Game/blob/master/main_screen.PNG)
